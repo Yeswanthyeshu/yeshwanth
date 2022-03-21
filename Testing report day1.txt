@@ -1,0 +1,27 @@
+Testing Report 21/02/2022
+
+Manual Testing
+*Intoduction to manual testing.
+*Goal of Manual 
+*Types of Testing
+
+INTRO:
+ KEY WORDS
+*Testing works based on the Software.
+*Identifying error is the purpose of it.
+*Testing is done before launching a new application or anything.
+*Testing can be done in both manual and automatic.Auto matic requires more effort.
+*Testing cannot be done fullly through automation.
+*Goal of testing is to work with out any error or issues while using the applications.
+*There are 6 types of testing.
+*Studied about myths of testing(Testing can be done by anyone easily).
+
+
+These are the materials i have completed today in testing.
+
+
+Regards;
+Yeswanth.V;
+SRM RAMAPURAM BSC 'D'
+
+
